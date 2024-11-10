@@ -6,14 +6,14 @@
 
   ![Initial table](./initial_table.png)
 
-- [1NF](./1NF.png)
+- [1NF](./p1_1NF.png)
 
-  ![1NF](./1NF.png)
+  ![1NF](./p1_1NF.png)
 
-- [2NF](./2NF.png)
+- [2NF](./p2_2NF.png)
 
-  ![2NF](./2NF.png)
+  ![2NF](./p2_2NF.png)
 
-- [3NF](./3NF.png)
+- [3NF](./p3_3NF.png)
 
-  ![3NF](./3NF.png)
+  ![3NF](./p3_3NF.png)
