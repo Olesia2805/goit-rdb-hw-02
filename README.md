@@ -18,6 +18,8 @@
 
   ![3NF](./p3_3NF.png)
 
+  [Link to the EER Diagram](./goit-rdb-hw-02_EER_Diagram.mwb)
+
 - [EER Diagram](./p4_EER_Diagram.png)
 
   ![EER Diagram](./p4_EER_Diagram.png)
